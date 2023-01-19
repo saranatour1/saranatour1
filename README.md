@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">a passionate developer who's always eager to learn new things!</h3>
 
