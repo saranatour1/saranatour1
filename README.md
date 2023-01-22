@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saralocalgit&label=Profile%20views&color=0e75b6&style=flat" alt="saralocalgit" /> </p>
 
-- 🔭 I’m currently working on **3x3-Rubix-Cube-slover-2d-**
+<!-- - 🔭 I’m currently working on **3x3-Rubix-Cube-slover-2d-** -->
 
 - 🌱 I’m currently learning **React,Javascript,Postgres, Css 3, HTML5**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraLocalGit](https://github.com/SaraLocalGit)
 
-- 💬 Ask me about **myself!**
+<!-- - 💬 Ask me about **myself!** -->
 
 - ⚡ Fun fact **I like to learn tools and I'm very good at it!**
 
