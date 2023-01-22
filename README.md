@@ -6,8 +6,8 @@
 <!-- - 🔭 I’m currently working on **3x3-Rubix-Cube-slover-2d-** -->
 
 - 🌱 I’m currently learning **React,Javascript,Postgres, Css 3, HTML5**
-
-- 👯 I’m looking to collaborate on **Dashboard for IoT systems**
+<!-- 
+- 👯 I’m looking to collaborate on **Dashboard for IoT systems** -->
 
 - 🤝 I’m looking for help with [drag-and-drop](https://github.com/SaraLocalGit/drag-and-drop.git)
 
