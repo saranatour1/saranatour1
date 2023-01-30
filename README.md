@@ -9,9 +9,9 @@
 <!-- 
 - 👯 I’m looking to collaborate on **Dashboard for IoT systems** -->
 
-- 🤝 I’m looking for help with [drag-and-drop](https://github.com/SaraLocalGit/drag-and-drop.git)
+<!-- - 🤝 I’m looking for help with [drag-and-drop](https://github.com/SaraLocalGit/drag-and-drop.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaraLocalGit](https://github.com/SaraLocalGit)
+- 👨‍💻 All of my projects are available at [https://github.com/SaraLocalGit](https://github.com/SaraLocalGit) -->
 
 <!-- - 💬 Ask me about **myself!** -->
 
