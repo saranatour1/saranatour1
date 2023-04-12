@@ -62,6 +62,9 @@ Persistance is key my friends
 
 ![Streaks count](https://github-readme-streak-stats.herokuapp.com/?user=saranatour1&theme=dark)
 
+![Leetcode progress](https://leetcard.jacoblin.cool/SaraNatour?border=0&radius=20)
+
+
 
 <!-- ![Profile counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaranatour11212%2Fhit-counter) -->
 ![image](https://user-images.githubusercontent.com/77834808/231468670-ba2fd0dc-2633-4c52-b0b9-518075699147.png)
