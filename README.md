@@ -4,6 +4,9 @@
 
 Hello! My name is Sara and I am a passionate developer who's always eager to learn new things. I am currently transitioning from Electrical Engineering to becoming a Full Stack Developer. I am attending an online bootcamp with Coding Dojo where I'm learning HTML, CSS, JavaScript, Python Stack, Java Stack, MERN Stack, and having a lot of fun working on projects and learning about the current developments in the world of web development. I've always dreamed of having a job where I can keep learning every day, and I think I'm on my way! <br>
 Check out my projects in the pinned repos :)
+### ***Quote of the Month:***
+>***Create Your own issues, for your own refrence.***
+
 ## languges I worked with
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
