@@ -49,6 +49,8 @@ Check out my projects in the pinned repos :)
 
 ## My last piece of advice
 Persistance is key my friends
+
+## where to find me
 **Feel free to reach out to me on linked in:** <br>
 
 <a href="https://www.linkedin.com/in/saranatour/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
