@@ -5,7 +5,7 @@
 Hello! My name is ***Sara*** and I am a passionate developer who's always eager to learn new things. I am currently transitioning from Electrical Engineering to becoming a Full Stack Developer. I am attending an online bootcamp with Coding Dojo where I'm learning HTML, CSS, JavaScript, Python Stack, Java Stack, MERN Stack, and having a lot of fun working on projects and learning about the current developments in the world of web development. I've always dreamed of having a job where I can keep learning every day, and I think I'm on my way! <br>
 Check out my projects in the pinned repos :)
 ### ***Quote of the Month:***
->***Life Goes on***
+>***Life Goes on*** <br>
 >This link is very helpful -> [MDN Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 
 ## My skills & What I've worked with: 
