@@ -6,6 +6,7 @@ Hello! My name is ***Sara*** and I am a passionate developer who's always eager 
 Check out my projects in the pinned repos :)
 ### ***Quote of the Month:***
 >***Life Goes on***
+>This link is very helpful -> [MDN Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
 
 ## My skills & What I've worked with: 
 <p align="left">
