@@ -46,7 +46,7 @@ Persistance is key my friends
 
 <a href="https://www.linkedin.com/in/saranatour/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saralocalgit&label=Profile%20views&color=0e75b6&style=flat" alt="saranatour1" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saralocalgit&label=Profile%20views&color=0e75b6&style=flat" alt="saranatour1" /> </p>
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saranatour1&theme=github_dark)
 
