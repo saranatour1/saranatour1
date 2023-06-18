@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">a passionate developer who's always eager to learn new things!</h3>
 
-Check out my resume in docs form -> [Resume](https://resume2-b4xjzv3tm-saranatour1.vercel.app/)
+Check out my resume in docs form -> [Resume](https://resume2-b4xjzv3tm-saranatour1.vercel.app/)  
 Hello! My name is ***Sara*** and I am a passionate developer who's always eager to learn new things. I am currently transitioning from Electrical Engineering to becoming a Full Stack Developer. I am attending an online bootcamp with Coding Dojo where I'm learning HTML, CSS, JavaScript, Python Stack, Java Stack, MERN Stack, and having a lot of fun working on projects and learning about the current developments in the world of web development. I've always dreamed of having a job where I can keep learning every day, and I think I'm on my way! <br>
 Check out my projects in the pinned repos :)
 <!-- ### ***Quote of the Month:***
