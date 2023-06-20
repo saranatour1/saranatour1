@@ -46,19 +46,33 @@ Persistance is key my friends
 
 <a href="https://www.linkedin.com/in/saranatour/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saralocalgit&label=Profile%20views&color=0e75b6&style=flat" alt="saranatour1" /> </p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=saralocalgit&label=Profile%20views&color=0e75b6&style=flat" alt="saranatour1" />
+  </p>
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saranatour1&theme=github_dark)
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saranatour1&theme=github_dark" />
+  </p>
 
+  <!-- Uncomment the line below if you want to align the card in the middle -->
+  <!-- <p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saranatour1&theme=dark" />
+  </p> -->
 
-<!-- ![Github Profile Stats Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saranatour1&theme=dark) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranatour1&theme=dark" />
+  </p>
 
-![Most useed languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saranatour1&theme=dark) 
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranatour1&theme=dark" />
+  </p>
 
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/SaraNatour?border=0&radius=20" />
+  </p>
+</div>
 
-![Streaks count](https://github-readme-streak-stats.herokuapp.com/?user=saranatour1&theme=dark)
-
-![Leetcode progress](https://leetcard.jacoblin.cool/SaraNatour?border=0&radius=20)
 
 
 
