@@ -16,13 +16,17 @@ I am A passionate Developer Living in Palestine.  With a background of Electrica
 
 > Main Technologies used : Java (spring Boot) , JavaScript , CSS3 , MySQL , Bootstrap , Postman ,Google Maps API ,etc.  
 
-![Feedme](https://img.shields.io/badge/Spring%20Boot%20-Wajbat?style=for-the-badge&logo=github&logoColor=%2376c095&label=Wajbat&labelColor=%23fff4e5&color=%23f3eee2&link=https%3A%2F%2Fgithub.com%2Fsaranatour1%2FFeedMe)
+[![Feedme](https://img.shields.io/badge/Spring%20Boot%20-Wajbat?style=for-the-badge&logo=github&logoColor=%2376c095&label=Wajbat&labelColor=%23fff4e5&color=%23f3eee2)](https://github.com/saranatour1/FeedMe)
+
+
+
 
 ### Moods
 Moods is a platform that connects people together regardless of time differences. 
 > Main Technologies used :Python (Django) ,BootStrap , Ajax , SQLLite .
 
-![Moods](https://img.shields.io/badge/Django-Moods?style=for-the-badge&logo=github&logoColor=%23cccc&label=Moods&labelColor=%23fff4e5&link=https%3A%2F%2Fgithub.com%2Fsaranatour1%2FMoods)
+[![Moods](https://img.shields.io/badge/Django-Moods?style=for-the-badge&logo=github&logoColor=%23cccc&label=Moods&labelColor=%23fff4e5)](https://github.com/saranatour1/Moods)
+
 
 
 
