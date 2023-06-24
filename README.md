@@ -1,12 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">a passionate developer who's always eager to learn new things!</h3>
 
-Check out my resume in docs form -> [Resume](https://resume2-b4xjzv3tm-saranatour1.vercel.app/)  
-Hello! My name is ***Sara*** and I am a passionate developer who's always eager to learn new things. I am currently transitioning from Electrical Engineering to becoming a Full Stack Developer. I am attending an online bootcamp with Coding Dojo where I'm learning HTML, CSS, JavaScript, Python Stack, Java Stack, MERN Stack, and having a lot of fun working on projects and learning about the current developments in the world of web development. I've always dreamed of having a job where I can keep learning every day, and I think I'm on my way! <br>
-Check out my projects in the pinned repos :)
-<!-- ### ***Quote of the Month:***
-> # ***A successful web developer must be able to solve problems with incomplete information.*** <br> -->
->This link is very helpful -> [MDN Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
+
+<p style="text-align: justify;">
+I am A passionate Developer Living in Palestine.  With a background of Electrical Engineering , I recently Finished a 4 month Intensive bootcamp with The Material of Coding Dojo, we learned 3 Major Stacks <strong>[Python - Django +flask , Java -Spring Boot , MERN - ReactJS + ExpressJS] </strong>  and I am Happy To be Starting My Journey From There. I am a person that is driven by curiosity, I like learning new things and Can Extensively maintain that with what I already know. I have a dream of keeping up with the fast changing career path and create usable, fast, secure  products for us humans.
+</p>
+<p style="text-align: center; ">If you are Interested In Knowing More about My Professional Background And Skills, You can Reach out to me on LinkedIn or check out my vite press Docs Resume -Not a meme-  <a href='https://resume2-b4xjzv3tm-saranatour1.vercel.app/' target='_blank'> Resume </a> .</p>
+<hr/>
+
+ <br>
+<h3 align="center">My Most Notable Projects </h3>
+  <hr align="center"  width='50%'/>
+
+### FeedMe -Wajbat
+<p align ='justify'> <strong>Wajbat</strong>  is a web application designed to provide restaurants with a dedicated space to gain recognition and attract customers in their local area. By offering a platform for restaurant owners to showcase their establishments and interact with potential customers, Wajbat aims to facilitate the growth and success of local restaurants. </p>
+
+> Main Technologies used : Java (spring Boot) , JavaScript , CSS3 , MySQL , Bootstrap , Postman ,Google Maps API ,etc.  
+
+![Feedme](https://img.shields.io/badge/Spring%20Boot%20-Wajbat?style=for-the-badge&logo=github&logoColor=%2376c095&label=Wajbat&labelColor=%23fff4e5&color=%23f3eee2&link=https%3A%2F%2Fgithub.com%2Fsaranatour1%2FFeedMe)
+
+### Moods
+Moods is a platform that connects people together regardless of time differences. 
+> Main Technologies used :Python (Django) ,BootStrap , Ajax , SQLLite .
+
+![Moods](https://img.shields.io/badge/Django-Moods?style=for-the-badge&logo=github&logoColor=%23cccc&label=Moods&labelColor=%23fff4e5&link=https%3A%2F%2Fgithub.com%2Fsaranatour1%2FMoods)
+
+
 
 ## My skills & What I've worked with: 
 <p align="left">
@@ -81,3 +99,4 @@ Persistance is key my friends
 
 
 ^^ **I am very passionate about taking pictures of sunsets and sunrise, I have a full gallery full of pictures like this** 
+>This link is very helpful -> [MDN Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
