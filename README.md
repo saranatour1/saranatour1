@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 
 
-<p style="text-align: justify;">
+<p align ='justify'>
 I am A passionate Developer Living in Palestine.  With a background of Electrical Engineering , I recently Finished a 4 month Intensive bootcamp with The Material of Coding Dojo, we learned 3 Major Stacks <strong>[Python - Django +flask , Java -Spring Boot , MERN - ReactJS + ExpressJS] </strong>  and I am Happy To be Starting My Journey From There. I am a person that is driven by curiosity, I like learning new things and Can Extensively maintain that with what I already know. I have a dream of keeping up with the fast changing career path and create usable, fast, secure  products for us humans.
 </p>
-<p style="text-align: center; ">If you are Interested In Knowing More about My Professional Background And Skills, You can Reach out to me on LinkedIn or check out my vite press Docs Resume -Not a meme-  <a href='https://resume2-b4xjzv3tm-saranatour1.vercel.app/' target='_blank'> Resume </a> .</p>
+<p align ='justify'">If you are Interested In Knowing More about My Professional Background And Skills, You can Reach out to me on LinkedIn or check out my vite press Docs Resume -Not a meme-  <a href='https://resume2-b4xjzv3tm-saranatour1.vercel.app/' target='_blank'> Resume </a> .</p>
 <hr/>
 
  <br>
