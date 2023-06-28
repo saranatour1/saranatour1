@@ -83,7 +83,7 @@ Persistance is key my friends
   </p> -->
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranatour1&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranatour1&layout=compact&theme=dark" />
   </p>
 
   <p align="center">
