@@ -34,6 +34,8 @@ Moods is a platform that connects people together regardless of time differences
 [![Moods](https://img.shields.io/badge/Django-Moods?style=for-the-badge&logo=github&logoColor=%23cccc&label=Moods&labelColor=%23fff4e5)](https://github.com/saranatour1/Moods)
 
 
+## What I like to do In my free time:
+I like to do some projects where I try out different Javascript frameworks, and I like to experiment with new things and learn coding.
 
 
 ## My skills & What I've worked with: 
