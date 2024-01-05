@@ -2,7 +2,11 @@
 
 
 <p align ='justify'>
-I am A passionate Developer Living in Palestine.  With a background of Electrical Engineering , I recently Finished a 4 month Intensive bootcamp with The Material of Coding Dojo, we learned 3 Major Stacks <strong>[Python - Django +flask , Java -Spring Boot , MERN - ReactJS + ExpressJS] </strong>  and I am Happy To be Starting My Journey From There. I am a person that is driven by curiosity, I like learning new things and Can Extensively maintain that with what I already know. I have a dream of keeping up with the fast changing career path and create usable, fast, secure  products for us humans.
+Hello there! my name is Sara, And I am a full-Stack/Software developer, my hobby is learning  JavaScript frameworks, I have gained almost 4 months of experience with Axsos academy where I managed to successfully learn: HTML, CSS, JavaScript, Python (Django and Flask), Java (Spring Boot), NodeJs, and React. Additionally, I've acquired proficiency in databases including MySQL, PostgreSQL, and MongoDB.  
+
+driven by curiosity and the love for problem-solving, I thrive on discovering new technologies and engaging in exciting projects. My goal is to craft secure and user-friendly solutions, relishing the learning journey that comes with each endeavor.  
+
+Currently, I'm actively seeking new opportunities, both locally and globally. If you're interested in connecting or have a challenge to propose, feel free to reach out to me on LinkedIn.  
 </p>
 
  <br>
