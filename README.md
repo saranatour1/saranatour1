@@ -72,11 +72,6 @@ I like to do some projects where I try out different Javascript frameworks, and 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
 
-<!-- ## other things I use 
-![Google analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) -->
 ## My last piece of advice
 Persistance is key my friends
 
@@ -91,31 +86,14 @@ Persistance is key my friends
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saranatour1&theme=github_dark" />
-  </p>
-
-  <!-- Uncomment the line below if you want to align the card in the middle -->
-  <!-- <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saranatour1&theme=dark" />
-  </p> -->
-  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranatour1&layout=compact&theme=dark" />
   </p>
-
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranatour1&theme=dark" />
   </p>
-
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/SaraNatour?border=0&radius=20" />
-  </p>
 </div>
 
-
-
-
-<!-- ![Profile counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaranatour11212%2Fhit-counter) -->
 ![image](https://user-images.githubusercontent.com/77834808/231468670-ba2fd0dc-2633-4c52-b0b9-518075699147.png)
 
 
