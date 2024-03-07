@@ -73,8 +73,8 @@ I like to do some projects where I try out different Javascript frameworks, and 
 [![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
 
 ## My last piece of advice
-Persistance is key my friends
-
+Persistance is key my friends   
+also, try figuring out how to run this? -> `aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL3NjaWVuY2VtZW1lcy9jb21tZW50cy94cjVxcmYvZnVja19hcm91bmRfYW5kX2ZpbmRfb3V0Lw==`
 ## where to find me
 ***Feel free to reach out to me on linked in:*** <br>
 <div style="display:flex;">
