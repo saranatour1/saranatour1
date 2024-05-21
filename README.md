@@ -2,45 +2,21 @@
 
 
 <p align ='justify'>
-Hello there! my name is Sara, And I am a full-Stack/Software developer, my hobby is learning  JavaScript frameworks, I have gained almost 4 months of experience with Axsos academy where I managed to successfully learn: HTML, CSS, JavaScript, Python (Django and Flask), Java (Spring Boot), NodeJs, and React. Additionally, I've acquired proficiency in databases including MySQL, PostgreSQL, and MongoDB.  
+Hello There, My Name is Sara and I’m a Web Developer with Electrical Engineering background, 
 
-driven by curiosity and the love for problem-solving, I thrive on discovering new technologies and engaging in exciting projects. My goal is to craft secure and user-friendly solutions, relishing the learning journey that comes with each endeavor.  
+Even though I’ve been in the industry for almost a year, I have gained Experience in Frameworks and programming languages, and made a decent progress in my career. I’m proficient in programming languages like : JavaScript & typescript, Python and Java. I’ve also progressed in multiple JavaScript frameworks such as React.Js and Vue, and I’m currently pursuing a career as a frontend developer, but I’m open to other opportunities as well.
 
-Currently, I'm actively seeking new opportunities, both locally and globally. If you're interested in connecting or have a challenge to propose, feel free to reach out to me on LinkedIn.  
+I also like planning and time management, I love using Notion and Miro for that. I also like doing puzzles in my spare time, I like learning new things and admire people who do.
+
+I'm open to both local and worldwide job opportunities, and I'm wanting to relocate if necessary. Please feel free to connect with me. Check out my GitHub account to get a sense of what I'm currently working on. Thanks for visiting!
+
+Enough about me, I would love to hear more about your opportunities & work, and feel free to connect.
+<div/>
+<a href="https://cal.com/saranatour">
+  <img src="https://images-ext-1.discordapp.net/external/x4PVtEINKHkQph3VvxirptOHcjPvkfRahN3CZVHZ0b0/%3Fw%3D1200%26q%3D100%26url%3D%252Fapi%252Fsocial%252Fog%252Fimage%253Ftype%253Dmeeting%2526title%253DDeveloper%252520x%252520Electrical%252520Engineer%25250A%25250Areach%252520me%252520%252540%252520-%25253E%252520reach%252540saranatour.dev%2526meetingProfileName%253DSara%252520Natour%2526meetingImage%253Dhttps%25253A%25252F%25252Fcal.com%25252Fapi%25252Favatar%25252F7f1bdb36-bdb6-4f85-bc0b-f0d4dfd12996.png%2526names%253DSara%252520Natour%2526usernames%253Dsaranatour/https/cal.com/_next/image?format=webp" style="width:512px"/>
+</a>
+
 </p>
-
- <br>
-<h3 align="center">My Most Notable Projects </h3>
-  <hr align="center"  width='50%'/>
-
-### Travel Designer
-<p align ='justify'> <strong>Travel Designer</strong> is a small app where people share their Travel ideas or experiences.   </p>
-
-> Main Technologies used : Mern Stack [React, NodeJS+Express , Mongodb ], Trip advisor API, Github API, Tailwind Css, Vite.
-
-[![Static Badge](https://img.shields.io/badge/Travel-Designer?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fsaranatour1%2FTraval-Designer%2Fraw%2Fmaster%2Fclient%2Fsrc%2Fassets%2Flogo.svg&logoColor=%23E8DED1&label=Github&labelColor=%23E8DED1&color=%23E8DED1)](https://github.com/saranatour1/Traval-Designer)
-
-
-### FeedMe -Wajbat
-<p align ='justify'> <strong>Wajbat</strong>  is a web application designed to provide restaurants with a dedicated space to gain recognition and attract customers in their local area. By offering a platform for restaurant owners to showcase their establishments and interact with potential customers, Wajbat aims to facilitate the growth and success of local restaurants. </p>
-
-> Main Technologies used : Java (spring Boot) , JavaScript , CSS3 , MySQL , Bootstrap , Postman ,Google Maps API ,etc.  
-
-[![Feedme](https://img.shields.io/badge/Spring%20Boot%20-Wajbat?style=for-the-badge&logo=github&logoColor=%2376c095&label=Wajbat&labelColor=%23fff4e5&color=%23f3eee2)](https://github.com/saranatour1/FeedMe)
-
-
-
-
-### Moods
-Moods is a platform that connects people together regardless of time differences. 
-> Main Technologies used :Python (Django) ,BootStrap , Ajax , SQLLite .
-
-[![Moods](https://img.shields.io/badge/Django-Moods?style=for-the-badge&logo=github&logoColor=%23cccc&label=Moods&labelColor=%23fff4e5)](https://github.com/saranatour1/Moods)
-
-
-## What I like to do In my free time:
-I like to do some projects where I try out different Javascript frameworks, and I like to experiment with new things and learn coding.
-
 
 ## My skills & What I've worked with: 
 <p align="left">
@@ -67,13 +43,7 @@ I like to do some projects where I try out different Javascript frameworks, and 
 
   [![Tools](https://skillicons.dev/icons?i=spring,postman&perline=7)](https://skillicons.dev) 
 </p>
-               
-## tools I love using for time manegment and brainstorming 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
 
-## My last piece of advice
-Persistance is key my friends   
 ## where to find me
 ***Feel free to reach out to me on linked in:*** <br>
 <div style="display:flex;">
@@ -100,9 +70,3 @@ Persistance is key my friends
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranatour1&theme=dark" />
   </p>
 </div>
-
-![image](https://user-images.githubusercontent.com/77834808/231468670-ba2fd0dc-2633-4c52-b0b9-518075699147.png)
-
-
-^^ **I am very passionate about taking pictures of sunsets and sunrise, I have a full gallery full of pictures like this** 
->This link is very helpful -> [MDN Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
