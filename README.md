@@ -11,11 +11,6 @@ I also like planning and time management, I love using Notion and Miro for that.
 I'm open to both local and worldwide job opportunities, and I'm wanting to relocate if necessary. Please feel free to connect with me. Check out my GitHub account to get a sense of what I'm currently working on. Thanks for visiting!
 
 Enough about me, I would love to hear more about your opportunities & work, and feel free to connect.
-<div/>
-<a href="https://cal.com/saranatour">
-  <img src="https://images-ext-1.discordapp.net/external/x4PVtEINKHkQph3VvxirptOHcjPvkfRahN3CZVHZ0b0/%3Fw%3D1200%26q%3D100%26url%3D%252Fapi%252Fsocial%252Fog%252Fimage%253Ftype%253Dmeeting%2526title%253DDeveloper%252520x%252520Electrical%252520Engineer%25250A%25250Areach%252520me%252520%252540%252520-%25253E%252520reach%252540saranatour.dev%2526meetingProfileName%253DSara%252520Natour%2526meetingImage%253Dhttps%25253A%25252F%25252Fcal.com%25252Fapi%25252Favatar%25252F7f1bdb36-bdb6-4f85-bc0b-f0d4dfd12996.png%2526names%253DSara%252520Natour%2526usernames%253Dsaranatour/https/cal.com/_next/image?format=webp" style="width:512px"/>
-</a>
-
 </p>
 
 ## My skills & What I've worked with: 
