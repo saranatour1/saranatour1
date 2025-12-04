@@ -2,15 +2,7 @@
 
 
 <p align ='justify'>
-I am Sara Natour, an Electrical Engineer and Full-Stack Developer with a strong foundation in frontend development. Recently relocated to Hannover, Germany, I bring over a year of experience in building scalable, high-performance web applications. My background in electrical engineering has equipped me with a problem-solving mindset and the ability to translate complex ideas into functional, user-friendly solutions.
-
-My expertise spans modern frontend technologies such as React.js (v19), Vue.js, Astro.js, Next.js, Tailwind CSS, ShadCN UI, and Radix, complemented by backend experience with Prisma, PostgreSQL, and Convex.dev. I am highly adaptable, quick to learn new technologies, and passionate about creating seamless user experiences.
-
-I am actively seeking opportunities in IoT and web development within Germany, with a strong focus on TypeScript. Additionally, I have experience in Python, Java, and C++, and I am always eager to expand my skill set based on project needs.
-
-Beyond my professional work, I contribute to open-source projects like Meshka and Kaioken Core and have previously worked at Clarity Text Inc. If you're looking for a skilled developer to collaborate on innovative projects, feel free to reach out to me by email.
-
-I am facing the reality of unemployment, and I'm looking for work in germany or across Europe as an English speaker.
+    It's a very long story tha can't fit in github readme
 </p>
 
 ## My skills & What I've worked with: 
